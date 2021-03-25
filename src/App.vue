@@ -17,10 +17,8 @@ export default {
   },
   data: () => ({
     firstName: 'Vovka',
-  }),
-  obj: {
     num: 1
-  },
+  }),
 </script>
 
 <style lang="scss">
